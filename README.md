@@ -1,7 +1,6 @@
 i have no brain and i must t e s t
 
-also what are you doing here no i wont tell you what this is for
+also what are you doing here
 
-1 2
-
-i dont know why things arent working and it scares me
+oh look
+things broke
